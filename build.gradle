@@ -100,7 +100,7 @@ checkerFramework {
     '-ArequirePrefixInWarningSuppressions',
     '-AwarnUnneededSuppressions',
 	  '-Aannotations',
-	  '-Anolocations,.',
+	  '-Anolocations',
 ,]
 }
 
