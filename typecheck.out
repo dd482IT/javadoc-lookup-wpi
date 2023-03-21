@@ -1,0 +1,7 @@
+entering iteration 3
+
+> Task :compileJava
+/Users/daniel/Documents/njit/WPI-Research/experiments-live/javadoc-lookup-wpi/src/main/java/org/plumelib/javadoclookup/CreateJavadocIndex.java:136: warning: [nullness:iterating.over.nullable] iterating over possibly-null reference index.get(key)
+      for (String ref : index.get(key)) {
+                                 ^
+1 warning
