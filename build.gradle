@@ -100,8 +100,8 @@ checkerFramework {
     '-ArequirePrefixInWarningSuppressions',
     '-AwarnUnneededSuppressions',
 	  '-Aannotations',
-	  '-Aannotations',
-]
+	  '-Anolocations,.',
+,]
 }
 
 // To use a locally-built Checker Framework, run gradle with "-PcfLocal".
